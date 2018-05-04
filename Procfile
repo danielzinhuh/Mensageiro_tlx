@@ -1,1 +1,1 @@
-worker: node mensageiro.js
+web: node mensageiro.js
